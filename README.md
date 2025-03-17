@@ -1,6 +1,6 @@
 # Модель для предсказания тональности и рейтинга отзывов (IMDB)
 
-[Открыть в Google Colab](https://colab.research.google.com/github/Diank/IMDB_sentiment_rating/blob/main/notebooks/demo_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diank/IMDB_sentiment_rating/blob/main/notebooks/demo_pipeline.ipynb)
 
 
 ## Цель проекта:
